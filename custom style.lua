@@ -1,5 +1,5 @@
 function skillload()
-    local userinput = game:GetService("userinput")
+    local userinput = game:GetService("UserInputService")
     local plr = game:GetService("Players")
     local localplr = plr.LocalPlayer
 
